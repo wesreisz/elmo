@@ -1,1 +1,3 @@
 Hello Class
+
+This is a quick down and dirty intro to git
